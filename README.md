@@ -11,7 +11,7 @@
 ---
 
 ## 📖 Deskripsi Singkat  
-Program ini merupakan implementasi sederhana dari sistem **CRUD (Create, Read, Update, Delete)** menggunakan bahasa **Java**.  
+Program ini merupakan implementasi sederhana dari sistem **CRUD (Create, Read, Update, Delete)** menggunakan bahasa pemrograman **Java**.  
 Tema yang digunakan adalah **Manajemen Transfer Pemain Sepak Bola**, di mana pengguna dapat menambahkan, melihat, memperbarui, dan menghapus data transfer pemain.
 
 Data transfer yang dikelola terdiri dari:
