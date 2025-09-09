@@ -57,7 +57,7 @@ public class Main {
                         System.out.println((i+1) + ". " + pemain.get(i) 
                                            + " (" + asalTim.get(i) + ") -> " 
                                            + klubTujuan.get(i) 
-                                           + " | Biaya: €" + biayaTransfer.get(i) + " juta");
+                                           + " | Biaya: " + biayaTransfer.get(i) + " juta");
                     }
                 }
             } 
